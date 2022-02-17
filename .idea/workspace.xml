@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f6c8a49-e7e1-46dd-a853-1090d7f4fe8d" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/debug-svg-print/MonitorInfo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/debug-svg-print/PreviewPrintTest.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/debug-svg-print/preview-print-test-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoLine.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645082645962</updated>
-      <workItem from="1645082647911" duration="950000" />
+      <workItem from="1645082647911" duration="1776000" />
     </task>
     <servers />
   </component>
